@@ -11,8 +11,10 @@
     *** Wilson José
     **
     ** Descrição:
-    ** Codigo para controle remoto via pagina web de 4 lampadas em uma residencia, 
-    ** sendo uma das lampadas chaveada para ser ativado o sensor de luminosidade
+    ** Codigo para controle remoto via pagina web de 4 lampadas em uma residencia, este modelo usa:
+    ** um arduino Uno, um display LCD 16x2, um sensor LDR, um ponteciometro de 10 k,
+    ** 4 LEDs de 5mm, 4 resistores de 100 ohm, 1 resistor de 10 k ohm
+    ** nota: uma das lampadas será chaveada para ser ativada pelo sensor de luminosidade
     */ 
 
 
